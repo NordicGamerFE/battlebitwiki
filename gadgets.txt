@@ -1,0 +1,5 @@
+img:bandage.webp:Bandage:/index.html,Revives target player and stops bleeding: - Heal 50HP to self,6,20,6,6,6,20;
+img:antipersonalmine.webp:Anti Vehicle Mine:/index.html,Damage:<ul><li>vs. infantry 400</li><li>vs. vehicles 1200</li><li>vs. buildables 800</li><li>vs. environment 100</li></ul>,❌,❌,❌,2,❌,30;
+img:antipersonalmine.webp:Anti Personnel Mine:/index.html,Damage:<ul><li>vs. infantry 400</li><li>vs. vehicles 60</li><li>vs. buildables 10</li><li>vs. environment 0</li></ul>,2,2,2,2,2,20;
+img:binoculars.webp:Binoculars:/index.html,Image magnification:<ul><li>Zoom Level: 4x-8x</li><li>Adjustable zoom level</li></ul>,❌,❌,❌,❌,✅,N/A;
+img:binoculars.webp:Advanced Binoculars:/index.html,Image magnification:<ul><li>Zoom Level: 8x</li></ul>,✅,✅,✅,✅,✅,N/A
