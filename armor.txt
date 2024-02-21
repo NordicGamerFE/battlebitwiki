@@ -35,4 +35,4 @@ Universal Armor 01 A Normal,21,95%,95%,95%,4,1;
 Universal Armor 01 B Normal,49,95%,95%,95%,4,1;
 Universal Armor 01 C Normal,99,95%,95%,95%,4,1;
 Universal SuppPack1 Armor 00 A Normal,0,95%,95%,95%,4,1;
-Universal Armor Content Creator 00 A Normal,0,95%,95%,95%,4,1;
+Universal Armor Content Creator 00 A Normal,0,95%,95%,95%,4,1
