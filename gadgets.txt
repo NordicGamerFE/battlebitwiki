@@ -2,12 +2,12 @@ img:bandage.webp:Bandage:/index.html,Revives target player and stops bleeding: -
 img:antipersonalmine.webp:Anti Vehicle Mine:/index.html,Damage:<ul><li>vs. infantry 400</li><li>vs. vehicles 1200</li><li>vs. buildables 800</li><li>vs. environment 100</li></ul>,❌,❌,❌,2,❌,30;
 img:antipersonalmine.webp:Anti Personnel Mine:/index.html,Damage:<ul><li>vs. infantry 400</li><li>vs. vehicles 60</li><li>vs. buildables 10</li><li>vs. environment 0</li></ul>,2,2,2,2,2,20;
 img:binoculars.webp:Binoculars:/index.html,Image magnification:<ul><li>Zoom Level: 4x-8x</li><li>Adjustable zoom level</li></ul>,❌,❌,❌,❌,✅,N/A;
-img:binoculars.webp:Advanced Binoculars:/index.html,Image magnification:<ul><li>Zoom Level: 8x</li></ul>,✅,✅,✅,✅,✅,N/A
-img:c4.webp:Suicide C4:/index.html,Detonation Damage:<ul><li>vs. infantry 300</li><li>vs. vehicles 800</li><li>vs. buildables 1200</li><li>vs. environment 100</li></ul>,1,1,1,1,1,20
-img:c4.webp:C4:/index.html,Detonation Damage:<ul><li>vs. infantry 200</li><li>vs. vehicles 800</li><li>vs. buildables 1800</li><li>vs. environment 400</li></ul>,4,4,4,4,4,20
-img:claymore.webp:Claymore:/index.html,Detonation Damage:<ul><li>vs. infantry 200</li><li>vs. vehicles 20</li><li>vs. buildables 0</li><li>vs. environment 0</li></ul>,2,2,2,2,2,20
-img:m320.webp:M320 Smoke Grenade Launcher:/index.html,Deploys smoke; six grenades per magazine,7,7,❌,❌,❌,30
-img:rangefinder.webp:Range Finder:/index.html,Allows for precise range estimation,✅,✅,✅,✅,❌,N/A
-img:airdrone.webp:Air Drone:/index.html,A flyable scout drone<ul><li>Explosives can be attached</li><li>Weight of explosives effects flying</li><li>Has a range of ?</li></ul>,❌,❌,❌,❌,✅,N/A
+img:binoculars.webp:Advanced Binoculars:/index.html,Image magnification:<ul><li>Zoom Level: 8x</li></ul>,✅,✅,✅,✅,✅,N/A;
+img:c4.webp:Suicide C4:/index.html,Detonation Damage:<ul><li>vs. infantry 300</li><li>vs. vehicles 800</li><li>vs. buildables 1200</li><li>vs. environment 100</li></ul>,1,1,1,1,1,20;
+img:c4.webp:C4:/index.html,Detonation Damage:<ul><li>vs. infantry 200</li><li>vs. vehicles 800</li><li>vs. buildables 1800</li><li>vs. environment 400</li></ul>,4,4,4,4,4,20;
+img:claymore.webp:Claymore:/index.html,Detonation Damage:<ul><li>vs. infantry 200</li><li>vs. vehicles 20</li><li>vs. buildables 0</li><li>vs. environment 0</li></ul>,2,2,2,2,2,20;
+img:m320.webp:M320 Smoke Grenade Launcher:/index.html,Deploys smoke; six grenades per magazine,7,7,❌,❌,❌,30;
+img:rangefinder.webp:Range Finder:/index.html,Allows for precise range estimation,✅,✅,✅,✅,❌,N/A;
+img:airdrone.webp:Air Drone:/index.html,A flyable scout drone<ul><li>Explosives can be attached</li><li>Weight of explosives effects flying</li><li>Has a range of ?</li></ul>,❌,❌,❌,❌,✅,N/A;
 img:ammokit.webp:Heavy Ammo Kit:/index.html,Resupplies equipment and ammo:<ul><li>Ammo Supply: 244</li><li>First Aid Supply: 100</li><li>Light Gadget Supply: 100</li><li>Heavy Gadget Supply: 100</li><li>Throwable Supply: 50</li
 </ul>,❌,❌,✅,❌,❌,N/A
