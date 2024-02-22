@@ -1,4 +1,4 @@
-Assault Armor 00 A Heavy,0,92.50%,92.50%,92.50%,5,2;
+[a]Assault Armor 00 A Heavy,0,92.50%,92.50%,92.50%,5,2;
 Assault Armor 01 A Heavy,5,92.50%,92.50%,92.50%,5,2;
 Assault Armor 01 B Heavy,12,92.50%,92.50%,92.50%,5,2;
 Assault Armor 01 C Heavy,35,92.50%,92.50%,92.50%,5,2;
