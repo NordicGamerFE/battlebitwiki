@@ -1,1 +1,22 @@
 img:azagor.png:Azagor:/index.html,test,test,test,test,test;
+img:basra.png:Basra:/index.html,test,test,test,test,test;
+img:construction.png:Construction:/index.html,test,test,test,test,test;
+img:district.png:District:/index.html,test,test,test,test,test;
+img:dustydew.png:Dusty Dew:/index.html,test,test,test,test,test;
+img:eduardovo.png:Eduardovo:/index.html,test,test,test,test,test;
+img:frugis.png:Frugis:/index.html,test,test,test,test,test;
+img:isle.png:Isle:/index.html,test,test,test,test,test;
+img:kodiak.png:Kodiak:/index.html,test,test,test,test,test;
+img:lonovo.png:Lonovo:/index.html,test,test,test,test,test;
+img:multuislands.png:Multu Islands:/index.html,test,test,test,test,test;
+img:namak.png:Namak:/index.html,test,test,test,test,test;
+img:oil-dunes.png:Oil Dunes:/index.html,test,test,test,test,test;
+img:outskirts.png:Outskirts:/index.html,test,test,test,test,test;
+img:river.png:River:/index.html,test,test,test,test,test;
+img:salhan.png:Salhan:/index.html,test,test,test,test,test;
+img:sandysunset.png:Sandy Sunset:/index.html,test,test,test,test,test;
+img:tensatown.png:Tensa Town:/index.html,test,test,test,test,test;
+img:valley.png:Valley:/index.html,test,test,test,test,test;
+img:wakistan.png:Wakistan:/index.html,test,test,test,test,test;
+img:wineparadise.png:Wine Paradise:/index.html,test,test,test,test,test;
+img:zalifbay.png:ZalifBay:/index.html,test,test,test,test,test
