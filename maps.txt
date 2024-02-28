@@ -19,9 +19,9 @@ img:tensatown.png:Tensa Town:/index.html,test,test,test,test,test;
 img:valley.png:Valley:/index.html,test,test,test,test,test;
 img:wakistan.png:Wakistan:/index.html,test,test,test,test,test;
 img:wineparadise.png:Wine Paradise:/index.html,test,test,test,test,test;
-img:zalifbay.png:ZalifBay:/index.html,test,test,test,test,test
-img:placeholder.png:Old Namak:/index.html,test,test,test,test,test
-img:placeholder.png:Old District:/index.html,test,test,test,test,test
-img:placeholder.png:Old Eduardovo:/index.html,test,test,test,test,test
-img:placeholder.png:Old MultuIsland:/index.html,test,test,test,test,test
+img:zalifbay.png:ZalifBay:/index.html,test,test,test,test,test;
+img:placeholder.png:Old Namak:/index.html,test,test,test,test,test;
+img:placeholder.png:Old District:/index.html,test,test,test,test,test;
+img:placeholder.png:Old Eduardovo:/index.html,test,test,test,test,test;
+img:placeholder.png:Old MultuIsland:/index.html,test,test,test,test,test;
 img:placeholder.png:Old Oil Dunes:/index.html,test,test,test,test,test
